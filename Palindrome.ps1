@@ -8,7 +8,7 @@ function Pal($multiple){
           return "$multiple";  }
         }
     
-$i = 9999999999
+$i = 999;
 $j = 999;
 $counter = 0;
 $n  = 0;
