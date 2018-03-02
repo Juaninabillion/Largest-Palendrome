@@ -12,7 +12,7 @@ $i = 999;
 $j = 999;
 $counter = 0;
 $n  = 0;
-$exit = $fale;
+$exit = 0;
 
 For($i;$i-gt 0;$i--){
     $counter = 0;    
